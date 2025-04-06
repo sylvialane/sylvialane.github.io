@@ -14,10 +14,10 @@ order: 01
 
 Lane & Sylvia's wedding tour:
 
-- [x] Engagement in Maui
-- [ ] Opening ceremony in Ames
-- [ ] Signing marriage certificate in Fairbanks
-- [ ] Closing ceremony in Gambell
+- [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
+- [ ] &nbsp;&nbsp; 🎊 &nbsp;&nbsp; Opening ceremony in Ames
+- [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage certificate in Fairbanks
+- [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 
 ## Come as you are
