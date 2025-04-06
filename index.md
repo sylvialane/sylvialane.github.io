@@ -22,7 +22,7 @@ We are excited to welcome our friends and family to a joyously queer, gender-flu
 
 Saturday, May 24, 2025, 2 p.m.; stay with us after for treats & a dance or two
 
-Unitarian Universalist Fellowship of Ames
+Unitarian Universalist Fellowship of Ames<br/>
 1015 Hyland Ave, Ames, IA 50014
 
 
