@@ -15,6 +15,8 @@ order: 01
 - [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage license in Fairbanks
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
+ ![](/assets/images/MauiBeach.jpg)
+
 ## 🏳️‍⚧️🏳️‍⚧️ Please join us 🏳️‍⚧️🏳️‍⚧️
 
 We are excited to welcome our friends and family to our joyously queer, gender-fluid, transgender, bisexual, neurodivergent celebration of love!
@@ -35,14 +37,3 @@ This will be a laid-back ceremony; dress however you feel most comfortable (jean
 
 
 We are grateful to have all the household items we need, but if you're so inclined we would love for you to make a donation to the UAF Alaska Native Language Center (https://engage.alaska.edu/uaf/crcd, choose 'Strengthening Alaska's Native Languages').
-
-
-
-<!--
-{% for post in site.posts limit: 5 %}
-  <article class="index-page">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
--->
