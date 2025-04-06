@@ -16,7 +16,7 @@ order: 01
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 
-We are excited to welcome our friends and family to a joyously queer, gender-fluid, transgender, bisexual, neurodivergent, universalist celebration of marriage!
+We are excited to welcome our friends and family to a joyously queer, gender-fluid, bisexual, neurodivergent celebration of marriage!
 
 ### Opening ceremony
 
