@@ -20,7 +20,7 @@ We are excited to welcome our friends and family to a joyously queer, gender-flu
 
 ### Opening ceremony
 
-Saturday, May 24, 2025, 2 p.m.; stay with us after for treats & a dance or two
+Saturday, May 24, 2025, 2 PM
 
 Unitarian Universalist Fellowship of Ames<br/>
 1015 Hyland Ave, Ames, IA 50014
@@ -30,6 +30,7 @@ Unitarian Universalist Fellowship of Ames<br/>
 
 This will be a laid-back ceremony. Dress however you feel most comfortable. Jeans, princess dresses, Hawaiian shirts, suits, and fancy dresses are all welcome!
 
+Stay with us after for treats & a dance or two!
 
 <img src="/assets/images/MauiOverlookCropped.jpg" width="50%">
 
