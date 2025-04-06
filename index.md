@@ -28,7 +28,11 @@ Unitarian Universalist Fellowship of Ames
 
 #### 🏳️‍⚧️🏳️‍⚧️ Come as you are 🏳️‍⚧️🏳️‍⚧️
 
-This will be a laid-back ceremony; dress however you feel most comfortable (jeans and princess dresses equally welcome!)
+This will be a laid-back ceremony.
+
+Dess however you feel most comfortable
+
+Jeans, princess dresses, Hawaiian shirts, suits, and fancy dresses are all welcome!
 
 
 <img src="/assets/images/MauiOverlookCropped.jpg" width="50%">
