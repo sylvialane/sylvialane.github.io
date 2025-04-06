@@ -10,8 +10,6 @@ order: 01
 
 # We're getting married!!!
 
-## Please join us! 
-
 Lane & Sylvia's wedding tour:
 
 - [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
@@ -20,16 +18,20 @@ Lane & Sylvia's wedding tour:
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 
-## Come as you are
+## Opening ceremony
 
-This will be a laid-back ceremony; dress however you feel most comfortable (jeans and princess dresses equally welcome!)
-
-## Wedding Ceremony
+### Please join us! 
 
 Saturday, May 24, 2025, 2 p.m.; stay with us after for treats & a dance or two
 
 Unitarian Universalist Fellowship of Ames
 1015 Hyland Ave, Ames, IA 50014
+
+
+### Come as you are
+
+This will be a laid-back ceremony; dress however you feel most comfortable (jeans and princess dresses equally welcome!)
+
 
 
 We are grateful to have all the household items we need, but if you're so inclined we would love for you to make a donation to the UAF Alaska Native Language Center (https://engage.alaska.edu/uaf/crcd, choose 'Strengthening Alaska's Native Languages').
