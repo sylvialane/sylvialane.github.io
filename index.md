@@ -16,7 +16,7 @@ order: 01
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 
-We are excited to welcome our friends and family to a joyous and gender-affirming celebration of marriage!
+We are excited to welcome our friends and family to a joyous gender-affirming celebration of marriage!
 
 ### Opening ceremony
 
@@ -32,7 +32,7 @@ This will be a laid-back ceremony. Dress however you feel most comfortable. Jean
 
 Stay with us after for treats & a dance or two!
 
-<img src="/assets/images/MauiOverlookCropped.jpg" width="50%">
+<img src="/assets/images/MauiOverlookCropped.jpg" width="100%">
 
 
 We are grateful to have all the household items we need, but if you're so inclined we would love for you to make a donation to the [UAF Alaska Native Language Center](https://engage.alaska.edu/uaf/crcd) (choose *Strengthening Alaska's Native Languages*)
