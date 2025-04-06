@@ -8,9 +8,7 @@ active: true
 order: 01
 ---
 
-# We're getting married!!!
-
-Lane & Sylvia's wedding tour:
+# Lane & Sylvia's wedding tour
 
 - [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
 - [ ] &nbsp;&nbsp; 🎊 &nbsp;&nbsp; Opening ceremony in Ames
@@ -20,7 +18,7 @@ Lane & Sylvia's wedding tour:
 
 ## Opening ceremony
 
-### Please join us! 
+### 🏳️‍⚧️🏳️‍⚧️ Please join us 🏳️‍⚧️🏳️‍⚧️
 
 Saturday, May 24, 2025, 2 p.m.; stay with us after for treats & a dance or two
 
