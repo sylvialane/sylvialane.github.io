@@ -8,6 +8,9 @@ active: true
 order: 01
 ---
 
+<img src="/assets/images/MauiBeach.jpg" width="100%">
+
+
 # Lane & Sylvia's wedding tour
 
 - [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
@@ -15,7 +18,6 @@ order: 01
 - [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage license in Fairbanks
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
-<img src="/assets/images/MauiBeach.jpg" width="100%">
 
 ## 🏳️‍⚧️🏳️‍⚧️ Please join us 🏳️‍⚧️🏳️‍⚧️
 
