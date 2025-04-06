@@ -8,14 +8,24 @@ active: true
 order: 01
 ---
 
-# Wedding
+# We're getting married!!!
 
-Please join us! 
-Sylvia & Lane
+## Please join us! 
+
+Lane & Sylvia's wedding tour:
+
+- [x] Engagement in Maui
+- [ ] Opening ceremony in Ames
+- [ ] Signing marriage certificate in Fairbanks
+- [ ] Closing ceremony in Gambell
+
+
+## Come as you are
 
 This will be a laid-back ceremony; dress however you feel most comfortable (jeans and princess dresses equally welcome!)
 
-## Ceremony
+## Wedding Ceremony
+
 Saturday, May 24, 2025, 2 p.m.; stay with us after for treats & a dance or two
 
 Unitarian Universalist Fellowship of Ames
