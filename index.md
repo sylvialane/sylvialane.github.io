@@ -1,5 +1,5 @@
 ---
-bg: "North_beach.jpg"
+bg: "OtherSide.jpg"
 layout: default
 crawlertitle: "Wedding"
 title: "Wedding"
