@@ -16,12 +16,9 @@ order: 01
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 
-## 🏳️‍⚧️🏳️‍⚧️ Please join us 🏳️‍⚧️🏳️‍⚧️
-
-We are excited to welcome our friends and family to our joyously queer, gender-fluid, transgender, bisexual, neurodivergent celebration of love!
-
-
 ### Opening ceremony
+
+We are excited to welcome our friends and family to a joyously queer, gender-fluid, transgender, bisexual, neurodivergent universalist celebration of marriage!
 
 Saturday, May 24, 2025, 2 p.m.; stay with us after for treats & a dance or two
 
@@ -29,7 +26,7 @@ Unitarian Universalist Fellowship of Ames
 1015 Hyland Ave, Ames, IA 50014
 
 
-#### Come as you are
+#### 🏳️‍⚧️🏳️‍⚧️ Come as you are 🏳️‍⚧️🏳️‍⚧️
 
 This will be a laid-back ceremony; dress however you feel most comfortable (jeans and princess dresses equally welcome!)
 
