@@ -8,7 +8,7 @@ active: true
 order: 01
 ---
 
-<img src="/assets/images/MauiOverlookCropped.jpg" width="100%">
+<img src="/assets/images/MauiOverlookCropped.jpg" width="50%">
 
 
 # Lane & Sylvia's wedding tour
