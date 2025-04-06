@@ -1,9 +1,9 @@
 ---
 bg: "OtherSide.jpg"
 layout: default
-crawlertitle: "Wedding"
-title: "Wedding"
-summary: "Wedding"
+crawlertitle: "Wedding crawler"
+title: "Wedding title"
+summary: "Wedding summary"
 active: true
 order: 01
 ---
