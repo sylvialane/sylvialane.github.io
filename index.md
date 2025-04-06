@@ -8,9 +8,6 @@ active: true
 order: 01
 ---
 
-<img src="/assets/images/MauiOverlookCropped.jpg" width="50%">
-
-
 # Lane & Sylvia's wedding tour
 
 - [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
@@ -36,6 +33,8 @@ Unitarian Universalist Fellowship of Ames
 
 This will be a laid-back ceremony; dress however you feel most comfortable (jeans and princess dresses equally welcome!)
 
+
+<img src="/assets/images/MauiOverlookCropped.jpg" width="50%">
 
 
 We are grateful to have all the household items we need, but if you're so inclined we would love for you to make a donation to the [UAF Alaska Native Language Center](https://engage.alaska.edu/uaf/crcd) (choose *Strengthening Alaska's Native Languages*)
