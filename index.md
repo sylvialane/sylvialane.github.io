@@ -15,7 +15,7 @@ order: 01
 - [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage license in Fairbanks
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
- ![](/assets/images/MauiBeach.jpg)
+<img src="/assets/images/MauiBeach.jpg" width="200">
 
 ## 🏳️‍⚧️🏳️‍⚧️ Please join us 🏳️‍⚧️🏳️‍⚧️
 
