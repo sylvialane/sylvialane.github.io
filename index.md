@@ -38,4 +38,4 @@ This will be a laid-back ceremony; dress however you feel most comfortable (jean
 
 
 
-We are grateful to have all the household items we need, but if you're so inclined we would love for you to make a donation to the UAF Alaska Native Language Center (https://engage.alaska.edu/uaf/crcd, choose 'Strengthening Alaska's Native Languages').
+We are grateful to have all the household items we need, but if you're so inclined we would love for you to make a donation to the [UAF Alaska Native Language Center](https://engage.alaska.edu/uaf/crcd) (choose *Strengthening Alaska's Native Languages*)
