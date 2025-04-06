@@ -12,12 +12,12 @@ order: 01
 
 - [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
 - [ ] &nbsp;&nbsp; 🎊 &nbsp;&nbsp; Opening ceremony in Ames
-- [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage certificate in Fairbanks
+- [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage license in Fairbanks
 - [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 ## 🏳️‍⚧️🏳️‍⚧️ Please join us 🏳️‍⚧️🏳️‍⚧️
 
-We are excited to welcome our friends and family!
+We are excited to welcome our friends and family to our joyously queer, gender-fluid, transgender, bisexual, neurodivergent celebration of love!
 
 
 ### Opening ceremony
