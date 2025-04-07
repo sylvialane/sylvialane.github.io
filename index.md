@@ -10,10 +10,10 @@ order: 01
 
 # Lane & Sylvia's wedding tour
 
-- [x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
-- [ ] &nbsp;&nbsp; 🎊 &nbsp;&nbsp; Opening ceremony in Ames
-- [ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage license in Fairbanks
-- [ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
+[x] &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; Engagement in Maui
+[ ] &nbsp;&nbsp; 🎊 &nbsp;&nbsp; Opening ceremony in Ames
+[ ] &nbsp;&nbsp; 🖋️ &nbsp;&nbsp; Signing marriage license in Fairbanks
+[ ] &nbsp;&nbsp; 🌊 &nbsp;&nbsp; Closing ceremony in Gambell
 
 
 We are excited to welcome our friends and family to a joyous gender-affirming celebration of marriage!
